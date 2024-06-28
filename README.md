@@ -6,7 +6,7 @@
 
 <Badges>
 
-[![Discord](https://img.shields.io/discord/501501905508237312?style=for-the-badge&label=discord)](https://discord.gg/zzCf5ZVdpN)
+[![Discord](https://img.shields.io/discord/1142457092393934869?style=for-the-badge&label=discord)](https://discord.gg/zzCf5ZVdpN)
 
 [![License](https://img.shields.io/github/license/calmguild/calmbot-next?style=for-the-badge)](https://github.com/CalmGuild/CalmBot-next/blob/master/LICENSE)
 
