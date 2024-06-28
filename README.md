@@ -1,18 +1,12 @@
-# Archival Notice
-This project has been rewritten and is now found at [this repo](https://github.com/calmguild/calmguild)
-This project will no longer be maintained 
+# CubitBot
 
-# CalmBot
+**Bot designed and built for serving [Cubit Guild](https://discord.gg/zzCf5ZVdpN)**
 
-**Bot designed and built for serving [Calm Guild](https://discord.gg/calm)**
-
-*Built by Miqhtie & Contributors*
-
-![Calm Bot Icon](https://cdn.discordapp.com/avatars/745371828100399164/6d836fd5244d3309c63d9ed3cfbca85c.webp?size=320) 
+*Built by oSuper & xAyman*
 
 <Badges>
 
-[![Discord](https://img.shields.io/discord/501501905508237312?style=for-the-badge&label=discord)](https://discord.gg/calm)
+[![Discord](https://img.shields.io/discord/501501905508237312?style=for-the-badge&label=discord)](https://discord.gg/zzCf5ZVdpN)
 
 [![License](https://img.shields.io/github/license/calmguild/calmbot-next?style=for-the-badge)](https://github.com/CalmGuild/CalmBot-next/blob/master/LICENSE)
 
