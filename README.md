@@ -1,6 +1,6 @@
 # CubitBot
 
-**Bot designed and built for serving [Cubit Guild](https://discord.gg/zzCf5ZVdpN)**
+**Bot designed and built for serving [Cubit Guild](https://discord.gg/zzCf5ZVdpN) on the Hypixel Network**
 
 *Built by oSuper & xAyman*
 
