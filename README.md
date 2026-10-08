@@ -8,7 +8,7 @@
 Want to help make this project better? Feel free to clone & fork this project and make a pull request.
 
 ### **Setting up the dev enviorement**
-After you clone this project, follow these steps to setup the dev enviorement
+After you clone this project, follow these steps to setup the dev environment
 
 - **Install yarn** <br> This project uses yarn package manager instead of npm. To install yarn do `npm i yarn -g`
 
